@@ -1,0 +1,11 @@
+CustomerID,idade,sexo,tempo_como_cliente,frequencia_uso,ligacoes_callcenter,dias_atraso,assinatura,duracao_contrato,total_gasto,meses_ultima_interacao
+449995.0,42.0,Male,54.0,15.0,1.0,3.0,Premium,Annual,716.38,8.0
+449996.0,25.0,Female,8.0,13.0,1.0,20.0,Premium,Annual,745.38,2.0
+449997.0,26.0,Male,35.0,27.0,1.0,5.0,Standard,Quarterly,977.31,9.0
+449998.0,28.0,Male,55.0,14.0,2.0,0.0,Standard,Quarterly,602.55,2.0
+449999.0,31.0,Male,48.0,20.0,1.0,14.0,Premium,Quarterly,567.77,21.0
+171815.0,55.0,Male,30.0,30.0,2.0,23.0,Standard,Monthly,953.0,16.0
+171816.0,53.0,Male,47.0,28.0,3.0,6.0,Premium,Monthly,976.0,20.0
+171817.0,60.0,Female,57.0,17.0,1.0,4.0,Premium,Monthly,475.0,10.0
+171818.0,38.0,Male,4.0,10.0,6.0,10.0,Standard,Quarterly,828.0,11.0
+171819.0,45.0,Male,40.0,19.0,0.0,15.0,Basic,Annual,135.0,26.0
