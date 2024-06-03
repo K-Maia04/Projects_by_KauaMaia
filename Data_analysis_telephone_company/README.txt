@@ -1,8 +1,1 @@
-Jupyter Notebook file for viewing the code.
-
-And to view and interact with the graphics, download the HTML file and run it!
-___________________________________________________________________________________________
-
-Arquivo Jupyter Notebook para visualização do código.
-
-E para visualização e interação com os gráficos baixe o arquivo HTML e execute!
+Initially made with Plotly. However, as the file was very large, it was reworked with MatPlotLIB to be exported to GitHUB.
