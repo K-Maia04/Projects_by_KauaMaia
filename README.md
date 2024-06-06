@@ -15,6 +15,6 @@ Here i will post all of my Projects, that i have already created, with descripti
 <p><li><b>Análise de jogos Steam através das Vendas Semanais </b></li></p>
 <p> Esse programa tem como intuito guiar o usuário em uma possível compra de jogos na plataforma STEAM. Através desse, serão obtidos o TOP 1 a 100 jogos mais vendidos durante a semana, junto com seu preço original e descontos se houverem. </p>
 <p> Além disso, para aprimorar a experiência do usuário e a escolha do jogo, a tabela também trará o número atual de jogadores e o link direto da loja para a obtenção do mesmo. </p>
-<p><li><b> Analisando Dados com Python - Empresa Telefonica </b></li></p>
+<p><li><b> Analisando Dados com Python - Empresa Telefônica </b></li></p>
 <p> Este projeto tem como intuito, analisar o banco de dados de uma empresa telefônica fictícia e analisar quais são os possíveis problemas e motivos de cancelamento dos clientes, além disso ao final irei treinar uma IA para a previsão de cancelamentos.</p>
 </ul>
