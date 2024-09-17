@@ -1,8 +1,2 @@
-Jupyter Notebook file for viewing the code.
-
-And to view and interact with the graphics, download the HTML file and run it!
-___________________________________________________________________________________________
-
-Arquivo Jupyter Notebook para visualização do código.
-
-E para visualização e interação com os gráficos baixe o arquivo HTML e execute!
+Use the link below to see the file!
+https://html-preview.github.io/?url=https://github.com/K-Maia04/Projects_by_KauaMaia/blob/main/Steam_Analysis/Steam_Analysis.html
